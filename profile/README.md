@@ -23,7 +23,7 @@ These tools are **not polished production-grade solutions**—they’re prototyp
 ## Related Orgs
 
 - [Twingate](https://github.com/twingate) – official Terraform providers, helm charts, K8s operator, k8s gateway, & github action
-- [Twingate‑Solutions](https://github.com/twingate-solutions) – quickstarts, IaC, scripts, and tools for enterprise deployment  
+- [Twingate‑Solutions](https://github.com/twingate-solutions) – quickstarts, IaC, scripts, and tools for enterprise deployment
 - [Twingate-Community](https://github.com/twingate-community) – creative, community-driven projects for homelabbers and tinkering with new ways to use Twingate
 
 ## Contributing
