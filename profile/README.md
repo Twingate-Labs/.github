@@ -6,9 +6,10 @@ This org is where we explore creative ways to extend, automate, or just have fun
 
 ## What’s in the Lab
 
+- **[Twingate‑CLI](https://github.com/Twingate-Labs/Twingate-CLI)** – Python CLI for the Twingate Admin API. Full API parity with 57 operations across 15 entity types, concurrent pagination, CSV/JSON/DataFrame output
+- **[tgcli‑web‑py](https://github.com/Twingate-Labs/tgcli-web-py)** – Browser-based admin console built on Twingate-CLI. Export/import with full CRUD, real-time diff review, health dashboard, entity browsing. Docker and pip install
 - **[tg‑cli](https://github.com/Twingate-Labs/tg-cli)** – Official CLI for managing Twingate via Deno/JavaScript  
 - **[tg‑aws‑tag‑sync](https://github.com/Twingate-Labs/tg-aws-tag-sync)** – AWS Lambda that syncs AWS resource tags into Twingate resources & groups
-- **[Twingate‑CLI](https://github.com/Twingate-Labs/Twingate-CLI)** – Python 3 CLI for Twingate operations  
 - **[tg‑coder](https://github.com/Twingate-Labs/tg-coder)** – Demo integration for using Twingate with Coder  
 - **[tg‑group‑profile‑manager](https://github.com/Twingate-Labs/tg-group-profile-manager)** – Slack bot for self-serve control over Twingate group access  
 - **[tg‑group‑profile‑manager‑helm](https://github.com/Twingate-Labs/tg-group-profile-manager-helm)** – Helm chart to deploy the Slack bot easily  
@@ -18,7 +19,7 @@ This org is where we explore creative ways to extend, automate, or just have fun
 
 ## What’s the vibe here?
 
-These tools are **not polished production-grade solutions**—they’re prototypes, hobby projects, and sandbox ideas. Think "inspiration starter kit" rather than full-featured products. Inspired? Remix them, learn from them, and take them further.
+These tools are **not polished production-grade solutions**—they’re prototypes, hobby projects, and sandbox ideas. Think “inspiration starter kit” rather than full-featured products. Inspired? Remix them, learn from them, and take them further.
 
 ## Related Orgs
 
@@ -28,6 +29,6 @@ These tools are **not polished production-grade solutions**—they’re prototyp
 
 ## Contributing
 
-If you’ve built something quirky or useful that doesn't fit into a mainline project, this is probably the place for it. Open a PR or discussion—let’s build weird stuff together.
+If you’ve built something quirky or useful that doesn’t fit into a mainline project, this is probably the place for it. Open a PR or discussion—let’s build weird stuff together.
 
 > Built with curiosity, duct tape, and the occasional weekend caffeine binge ☕
