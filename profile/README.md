@@ -6,9 +6,9 @@ This org is where we explore creative ways to extend, automate, or just have fun
 
 ## What’s in the Lab
 
-- **[Twingate‑CLI](https://github.com/Twingate-Labs/Twingate-CLI)** – Python CLI for the Twingate Admin API. Full API parity with 57 operations across 15 entity types, concurrent pagination, CSV/JSON/DataFrame output
+- **[Twingate‑CLI](https://github.com/Twingate-Labs/Twingate-CLI)** – Official Python CLI for the Twingate Admin API. Full API parity with 57 operations across 15 entity types, concurrent pagination, CSV/JSON/DataFrame output
 - **[tgcli‑web‑py](https://github.com/Twingate-Labs/tgcli-web-py)** – Browser-based admin console built on Twingate-CLI. Export/import with full CRUD, real-time diff review, health dashboard, entity browsing. Docker and pip install
-- **[tg‑cli](https://github.com/Twingate-Labs/tg-cli)** – Official CLI for managing Twingate via Deno/JavaScript  
+- **[tg‑cli](https://github.com/Twingate-Labs/tg-cli)** – [Deprecated] CLI for managing Twingate via Deno/JavaScript  
 - **[tg‑aws‑tag‑sync](https://github.com/Twingate-Labs/tg-aws-tag-sync)** – AWS Lambda that syncs AWS resource tags into Twingate resources & groups
 - **[tg‑coder](https://github.com/Twingate-Labs/tg-coder)** – Demo integration for using Twingate with Coder  
 - **[tg‑group‑profile‑manager](https://github.com/Twingate-Labs/tg-group-profile-manager)** – Slack bot for self-serve control over Twingate group access  
